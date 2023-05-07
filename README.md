@@ -5,3 +5,5 @@ Walk-through to a drug dispensing tool application
 
 Describe the process here 
  This is a drug dispensing project
+
+ Building it from scratch
